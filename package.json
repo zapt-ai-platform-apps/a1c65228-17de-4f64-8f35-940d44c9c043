@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "validator-ide-bisnis",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "Aplikasi Validator Ide Bisnis dengan teknologi RBX76S",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -10,9 +10,19 @@
         "start": "vite --host"
     },
     "dependencies": {
+        "@headlessui/react": "^1.7.18",
         "@sentry/browser": "^8.41.0",
+        "chart.js": "^4.4.1",
+        "framer-motion": "^11.0.3",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-chartjs-2": "^5.2.0",
+        "react-dom": "^18.2.0",
+        "react-hook-form": "^7.51.0",
+        "react-icons": "^5.0.1",
+        "react-router-dom": "^6.22.3",
+        "react-slick": "^0.30.1",
+        "slick-carousel": "^1.8.1",
+        "@zapt/zapt-js": "^1.0.29"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^4.3.4",
